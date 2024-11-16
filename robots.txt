@@ -2,10 +2,10 @@
 
 # Allow all robots full access
 User-agent: *
-# Allow: /
+Allow: /
 
 # Common directories to disallow
-Disallow: /
+# Disallow: /
 Disallow: /cgi-bin/
 Disallow: /tmp/
 Disallow: /admin/
